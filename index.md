@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## About Me
+I'm a Deep Learning Research Engineer at [Enlitic](https://www.enlitic.com),
+where I work with a cross-functional team to apply Natural Language
+ Processing (NLP) to the field of radiology. I'm passionate about 
+  how we can train deep learning models to understand the complexities of
+   language, with a budding interest in Computer Vision and
+    multimodal applications combining NLP and CV.
+   
+In 2019, I received an M.S. in Language Technologies at
+ the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at
+  [Carnegie Mellon University](https://www.cmu.edu/). Advised by Alex
+   Hauptmann, my research focused on the application of DL NLP in the 
+    extraction of useful tweets during public safety events.
+    
+Prior to my time at CMU, I obtained a "diplôme d'ingénieur" at the [Ecole
+ Polytechnique](https://www.polytechnique.edu/en)
+ in Paris, France. This diploma combined a B.S-equivalent undergraduate degree
+  with a Masters in Data Science. While at Ecole Polytechnique, I
+   worked with the teams at [SRI International](https://www.sri.com/) in
+    Menlo Park and [Pzartech](https://www.pzartech.com/), an Israeli start
+    -up based in Tel-Aviv.
 
-You can use the [editor on GitHub](https://github.com/jblamare/jblamare.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publications
+Coming soon
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jblamare/jblamare.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Projects
+Coming soon
