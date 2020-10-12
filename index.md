@@ -3,7 +3,7 @@ I'm a Deep Learning Research Engineer at [Enlitic](https://www.enlitic.com),
 where I work with a cross-functional team to apply Natural Language
  Processing (NLP) to the field of radiology. I'm passionate about 
   how we can train deep learning models to understand the complexities of
-   language, with a budding interest in Computer Vision and
+   language, with a budding interest in Computer Vision (CV) and
     multimodal applications combining NLP and CV.
    
 In 2019, I received an M.S. in Language Technologies at
@@ -22,8 +22,8 @@ Prior to my time at CMU, I obtained a "diplôme d'ingénieur" at the [Ecole
 
 
 ## Publications
-Coming soon
+{% include publications.html %}
 
 
 ## Projects
-Coming soon
+{% include projects.html %}
