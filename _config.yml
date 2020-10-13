@@ -5,3 +5,5 @@ description: Hello! I'm JB, a DL research engineer @Enlitic. You can
 logo: assets/img/enlitic.jpg
 show_downloads: false
 google_analytics: UA-180164542-1
+plugins:
+  - jekyll-seo-tag
