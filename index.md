@@ -1,3 +1,7 @@
+---
+title: Jean-Baptiste Lamare
+---
+
 ## About Me
 I'm a Deep Learning Research Engineer at [Enlitic](https://www.enlitic.com){:target="_blank"},
 where I work with a cross-functional team to apply Natural Language
