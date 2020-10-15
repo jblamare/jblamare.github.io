@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: Jean-Baptiste Lamare
+author:
+  twitter: jb_lamare
 description: Hello! I'm JB, a DL research engineer @Enlitic. You can
   download my resume and find my contact information below!
 logo: assets/img/enlitic.jpg
