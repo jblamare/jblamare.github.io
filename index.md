@@ -21,9 +21,12 @@ Prior to my time at CMU, I obtained a "diplôme d'ingénieur" at the [Ecole
     -up based in Tel-Aviv.
 
 
+<br/>
+  
 ## Publications
 {% include publications.html %}
 
+<br/>
 
 ## Projects
 {% include projects.html %}
