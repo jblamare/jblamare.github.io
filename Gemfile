@@ -4,8 +4,5 @@ group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-seo-tag'
     gem 'jekyll-email-protect'
-    gem 'jekyll-paginate'
-    gem 'jekyll-scholar'
-    gem 'jemoji'
     gem 'unicode_utils'
 end
