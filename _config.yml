@@ -9,3 +9,4 @@ show_downloads: false
 google_analytics: UA-180164542-1
 plugins:
   - jekyll-seo-tag
+github: [metadata]
