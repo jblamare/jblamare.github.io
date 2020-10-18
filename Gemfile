@@ -4,5 +4,5 @@ group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-seo-tag'
     gem 'jekyll-email-protect'
-    gem 'unicode_utils'
+    gem 'jekyll-sitemap'
 end

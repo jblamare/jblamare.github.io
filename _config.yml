@@ -4,6 +4,9 @@ description: Personal Website
 logo: assets/img/enlitic.jpg
 show_downloads: false
 google_analytics: UA-180164542-1
+url: "https://jblamare.github.io"
 plugins:
+  - jekyll-email-protect
   - jekyll-seo-tag
+  - jekyll-sitemap
 github: [metadata]
