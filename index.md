@@ -3,7 +3,7 @@ title: Jean-Baptiste Lamare
 ---
 
 ## About Me
-I'm a Deep Learning Research Engineer at [Enlitic](https://www.enlitic.com){:target="_blank"},
+I'm a Senior Research Scientist at [Enlitic](https://www.enlitic.com){:target="_blank"},
 where I work with a cross-functional team to apply Natural Language
  Processing (NLP) to the field of radiology. I'm passionate about 
   how we can train deep learning models to understand the complexities of
