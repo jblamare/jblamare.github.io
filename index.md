@@ -3,12 +3,16 @@ title: Jean-Baptiste Lamare
 ---
 
 ## About Me
-I'm a Senior Research Scientist at [Enlitic](https://www.enlitic.com){:target="_blank"},
-where I work with a cross-functional team to apply Natural Language
+I'm an AI Scientist at [Covera Health](https://www.coverahealth.com/){:target="_blank"}, 
+where I work with a cross-functional team to apply Deep Learning and Natural Language
  Processing (NLP) to the field of radiology. I'm passionate about 
   how we can train deep learning models to understand the complexities of
    language, with a budding interest in Computer Vision (CV) and
     multimodal applications combining NLP and CV.
+
+Previously, I was a Senior Research Scientist in Deep Learning and NLP at 
+[Enlitic](https://www.enlitic.com){:target="_blank"} from 2019 to 2021. A description of 
+my different contributions can be found on my resume.
    
 In 2019, I received an M.S. in Language Technologies at
  the [Language Technologies Institute](https://www.lti.cs.cmu.edu/){:target="_blank"} at
