@@ -21,11 +21,10 @@ In 2019, I received an M.S. in Language Technologies at
     
 Prior to my time at CMU, I obtained a "diplôme d'ingénieur" at the [Ecole
  Polytechnique (X)](https://www.polytechnique.edu/en){:target="_blank"}
- in Paris, France. This diploma combined a B.S-equivalent undergraduate degree
+ in Palaiseau, France. This diploma combined a B.S-equivalent undergraduate degree
   with a Masters in Data Science. While at Ecole Polytechnique, I
    worked with the teams at [SRI International](https://www.sri.com/){:target="_blank"} in
-    Menlo Park and [Pzartech](https://www.pzartech.com/){:target="_blank"}, an Israeli start
-    -up based in Tel-Aviv.
+    Menlo Park and [Pzartech](https://www.pzartech.com/){:target="_blank"}, an Israeli start-up based in Tel-Aviv.
     
 When I'm not working, I like to [learn languages](https://www.duolingo.com
 /profile/Jibelam){:target="_blank"}, play [tennis](https://m.tennislink.usta.com/statsandstandings/StatsAndStandings.aspx?t=8&par1=DB00923927D0A18695940B4A09684FAE3D&par2=2019&par3=0){:target="_blank"}, 
