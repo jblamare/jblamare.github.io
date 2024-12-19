@@ -3,7 +3,7 @@ title: Jean-Baptiste Lamare
 ---
 
 ## About Me
-I'm an AI Scientist at [Covera Health](https://www.coverahealth.com/){:target="_blank"}, 
+I'm a Senior AI Scientist at [Covera Health](https://www.coverahealth.com/){:target="_blank"}, 
 where I work with a cross-functional team to apply Deep Learning and Natural Language
  Processing (NLP) to the field of radiology. I'm passionate about 
   how we can train deep learning models to understand the complexities of
