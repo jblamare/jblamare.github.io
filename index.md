@@ -3,11 +3,11 @@ title: Jean-Baptiste Lamare
 ---
 
 ## About Me
-I'm a Senior AI Scientist at [Covera Health](https://www.coverahealth.com/){:target="_blank"}, 
-where I work with a cross-functional team to apply Deep Learning and Natural Language
- Processing (NLP) to the field of radiology. I'm passionate about 
+I'm a Staff AI Scientist at [Covera Health](https://www.coverahealth.com/){:target="_blank"}, 
+where I work with a cross-functional team to apply Deep Leanring, Natural Language
+ Processing (NLP), and Computer Vision (CV) to the field of radiology. I'm passionate about 
   how we can train deep learning models to understand the complexities of
-   language.
+   language and vision.
 
 Previously, I was a Senior Research Scientist in Deep Learning and NLP at 
 [Enlitic](https://www.enlitic.com){:target="_blank"} from 2019 to 2021. A description of 
@@ -27,7 +27,7 @@ Prior to my time at CMU, I obtained a "diplôme d'ingénieur" at the [Ecole
     Menlo Park and [Pzartech](https://www.pzartech.com/){:target="_blank"}, an Israeli start-up based in Tel-Aviv.
     
 When I'm not working, I like to [learn languages](https://www.duolingo.com
-/profile/Jibelam){:target="_blank"}, play [tennis](https://m.tennislink.usta.com/statsandstandings/StatsAndStandings.aspx?t=8&par1=DB00923927D0A18695940B4A09684FAE3D&par2=2019&par3=0){:target="_blank"}, 
+/profile/Jibelam){:target="_blank"}, play [tennis](https://tennislink.usta.com/Leagues/Main/statsandstandings.aspx#&&s=u0vqG45YGhGnQt066YwmnQ2){:target="_blank"}, 
 music, [chess](https://www.chess.com/member/jlamare){:target="_blank
 "}, travel, bake, and wait for the ski season to start!
 
