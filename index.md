@@ -4,7 +4,7 @@ title: Jean-Baptiste Lamare
 
 ## About Me
 I'm a Staff AI Scientist at [Covera Health](https://www.coverahealth.com/){:target="_blank"}, 
-where I work with a cross-functional team to apply Deep Leanring, Natural Language
+where I work with a cross-functional team to apply Deep Learning, Natural Language
  Processing (NLP), and Computer Vision (CV) to the field of radiology. I'm passionate about 
   how we can train deep learning models to understand the complexities of
    language and vision.
